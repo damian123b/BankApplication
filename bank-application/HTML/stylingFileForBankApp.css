@@ -1,0 +1,31 @@
+#container{
+ width: 1000px;
+ height: 800px;
+ background-color: green;
+ margin-left: auto;
+ margin-right: auto;
+ text-align: center;
+ font-size: 30px;
+}
+
+#welcomeHeader {
+	padding-top:30px;
+	height:200px;
+}
+
+.divsInRow {
+    background-color: yellow;
+	float: left;
+	width: 320px;
+	height: 200px;
+	text-align:center
+	padding-top:30px;
+	margin-left: auto;
+    margin-right: auto;
+	
+	
+}
+#divWithForm{
+	clear:both;
+	height:200px;
+}
